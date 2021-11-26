@@ -75,4 +75,4 @@ ToriChan ([@CoconMap](https://twitter.com/coconmap))
 
 ## My favorite songs for driving...
 
-<iframe src="https://open.spotify.com/embed/album/75PpZnKSeKRgGGGps2A3xz?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+https://open.spotify.com/album/75PpZnKSeKRgGGGps2A3xz?si=p2CbhtdZQ8CssN9fZNdAaA
