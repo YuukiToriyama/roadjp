@@ -37,7 +37,7 @@ const convertMiltData = async (prefNumber: string, outDir: string) => {
 	fs.writeFile(`./${outDir}/${prefNumber}.geojson`, JSON.stringify(geojson, null, "\t"));
 };
 
-for (let i = 46; i <= 47; i++) {
+for (let i = 1; i <= 47; i++) {
 	const prefNumber = i.toString().padStart(2, "0");
 	convertMiltData(prefNumber, "data");
 }
