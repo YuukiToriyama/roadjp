@@ -1,0 +1,4155 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.56077778,
+						34.83238889
+					],
+					[
+						135.56494444,
+						34.83627778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.58633333,
+						34.85322222
+					],
+					[
+						135.5855,
+						34.85266667
+					],
+					[
+						135.58188889,
+						34.85044444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.58772222,
+						34.85405556
+					],
+					[
+						135.58633333,
+						34.85322222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.59716667,
+						34.85822222
+					],
+					[
+						135.59327778,
+						34.85655556
+					],
+					[
+						135.58772222,
+						34.85405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.59994444,
+						34.85961111
+					],
+					[
+						135.59716667,
+						34.85822222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.60438889,
+						34.86155556
+					],
+					[
+						135.59994444,
+						34.85961111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.60827778,
+						34.8635
+					],
+					[
+						135.60438889,
+						34.86155556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.61383333,
+						34.86627778
+					],
+					[
+						135.60827778,
+						34.8635
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.61522222,
+						34.86655556
+					],
+					[
+						135.61383333,
+						34.86627778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.62216667,
+						34.86766667
+					],
+					[
+						135.61966667,
+						34.86766667
+					],
+					[
+						135.61688889,
+						34.86711111
+					],
+					[
+						135.61522222,
+						34.86655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.568,
+						34.83877778
+					],
+					[
+						135.56494444,
+						34.83627778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.56966667,
+						34.84016667
+					],
+					[
+						135.568,
+						34.83877778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.57077778,
+						34.841
+					],
+					[
+						135.56966667,
+						34.84016667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.57855556,
+						34.84766667
+					],
+					[
+						135.57077778,
+						34.841
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.58188889,
+						34.85044444
+					],
+					[
+						135.57855556,
+						34.84766667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.683,
+						34.901
+					],
+					[
+						135.67605556,
+						34.89738889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.683,
+						34.901
+					],
+					[
+						135.67605556,
+						34.89738889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.68522222,
+						34.90238889
+					],
+					[
+						135.683,
+						34.901
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.68522222,
+						34.90238889
+					],
+					[
+						135.683,
+						34.901
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.68688889,
+						34.90294444
+					],
+					[
+						135.68522222,
+						34.90238889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.68688889,
+						34.90294444
+					],
+					[
+						135.68522222,
+						34.90238889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.68827778,
+						34.9035
+					],
+					[
+						135.68688889,
+						34.90294444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.69161111,
+						34.90405556
+					],
+					[
+						135.68827778,
+						34.9035
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.69438889,
+						34.90488889
+					],
+					[
+						135.69161111,
+						34.90405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.69855556,
+						34.906
+					],
+					[
+						135.69438889,
+						34.90488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.70272222,
+						34.90794444
+					],
+					[
+						135.7005,
+						34.90655556
+					],
+					[
+						135.69855556,
+						34.906
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.70411111,
+						34.90877778
+					],
+					[
+						135.70272222,
+						34.90794444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.70522222,
+						34.91016667
+					],
+					[
+						135.70411111,
+						34.90877778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65716667,
+						34.87905556
+					],
+					[
+						135.65661111,
+						34.87766667
+					],
+					[
+						135.65411111,
+						34.87488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65716667,
+						34.87905556
+					],
+					[
+						135.65605556,
+						34.87794444
+					],
+					[
+						135.65411111,
+						34.87488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65855556,
+						34.881
+					],
+					[
+						135.65716667,
+						34.87905556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.66577778,
+						34.891
+					],
+					[
+						135.66327778,
+						34.88905556
+					],
+					[
+						135.66161111,
+						34.88655556
+					],
+					[
+						135.65855556,
+						34.881
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.66772222,
+						34.89238889
+					],
+					[
+						135.66577778,
+						34.891
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.6705,
+						34.89405556
+					],
+					[
+						135.66772222,
+						34.89238889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.6705,
+						34.89405556
+					],
+					[
+						135.66772222,
+						34.89238889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.67355556,
+						34.89544444
+					],
+					[
+						135.67188889,
+						34.89433333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.67188889,
+						34.89433333
+					],
+					[
+						135.6705,
+						34.89405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.67605556,
+						34.89738889
+					],
+					[
+						135.6705,
+						34.89405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.67605556,
+						34.89738889
+					],
+					[
+						135.67355556,
+						34.89544444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.64855556,
+						34.86655556
+					],
+					[
+						135.64577778,
+						34.86461111
+					],
+					[
+						135.64188889,
+						34.8635
+					],
+					[
+						135.63772222,
+						34.86294444
+					],
+					[
+						135.63355556,
+						34.8635
+					],
+					[
+						135.62994444,
+						34.86488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.64966667,
+						34.86822222
+					],
+					[
+						135.64855556,
+						34.86655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.64966667,
+						34.86822222
+					],
+					[
+						135.64855556,
+						34.86655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65355556,
+						34.87405556
+					],
+					[
+						135.64966667,
+						34.86822222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65355556,
+						34.87405556
+					],
+					[
+						135.64966667,
+						34.86822222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65411111,
+						34.87488889
+					],
+					[
+						135.65355556,
+						34.87405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.65411111,
+						34.87488889
+					],
+					[
+						135.65355556,
+						34.87405556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.70936111,
+						34.91988889
+					],
+					[
+						135.70522222,
+						34.91016667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.62994444,
+						34.86488889
+					],
+					[
+						135.62744444,
+						34.86627778
+					],
+					[
+						135.62438889,
+						34.86711111
+					],
+					[
+						135.62216667,
+						34.86766667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.73825,
+						34.95127778
+					],
+					[
+						135.73519444,
+						34.95016667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74102778,
+						34.95238889
+					],
+					[
+						135.73825,
+						34.95127778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74325,
+						34.95322222
+					],
+					[
+						135.74102778,
+						34.95238889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74519444,
+						34.95377778
+					],
+					[
+						135.74325,
+						34.95322222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74713889,
+						34.95433333
+					],
+					[
+						135.74519444,
+						34.95377778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71797222,
+						34.94044444
+					],
+					[
+						135.71575,
+						34.93711111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.72019444,
+						34.94294444
+					],
+					[
+						135.71797222,
+						34.94044444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.72297222,
+						34.94488889
+					],
+					[
+						135.72019444,
+						34.94294444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.72408333,
+						34.94572222
+					],
+					[
+						135.72297222,
+						34.94488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.72547222,
+						34.94627778
+					],
+					[
+						135.72408333,
+						34.94572222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.72908333,
+						34.94766667
+					],
+					[
+						135.72547222,
+						34.94627778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.73213889,
+						34.94905556
+					],
+					[
+						135.72908333,
+						34.94766667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.73380556,
+						34.94961111
+					],
+					[
+						135.73213889,
+						34.94905556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.73519444,
+						34.95016667
+					],
+					[
+						135.73380556,
+						34.94961111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71186111,
+						34.92711111
+					],
+					[
+						135.70936111,
+						34.91988889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71269444,
+						34.92905556
+					],
+					[
+						135.71186111,
+						34.92711111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71352778,
+						34.93127778
+					],
+					[
+						135.71269444,
+						34.92905556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71408333,
+						34.93266667
+					],
+					[
+						135.71352778,
+						34.93127778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71519444,
+						34.93572222
+					],
+					[
+						135.71408333,
+						34.93266667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.71575,
+						34.93711111
+					],
+					[
+						135.71519444,
+						34.93572222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.75575,
+						34.95655556
+					],
+					[
+						135.75241667,
+						34.95627778
+					],
+					[
+						135.75102778,
+						34.956
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.75880556,
+						34.95655556
+					],
+					[
+						135.75575,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.76019444,
+						34.95627778
+					],
+					[
+						135.75880556,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.76241667,
+						34.95655556
+					],
+					[
+						135.76019444,
+						34.95627778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.76463889,
+						34.95655556
+					],
+					[
+						135.76241667,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.76769444,
+						34.95655556
+					],
+					[
+						135.76463889,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.80630556,
+						34.96155556
+					],
+					[
+						135.79602778,
+						34.95711111
+					],
+					[
+						135.79380556,
+						34.95655556
+					],
+					[
+						135.79130556,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.80852778,
+						34.96266667
+					],
+					[
+						135.80630556,
+						34.96155556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.81075,
+						34.96377778
+					],
+					[
+						135.80852778,
+						34.96266667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.81325,
+						34.96488889
+					],
+					[
+						135.81075,
+						34.96377778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.81408333,
+						34.96516667
+					],
+					[
+						135.81325,
+						34.96488889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.82019444,
+						34.96794444
+					],
+					[
+						135.81408333,
+						34.96516667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.76991667,
+						34.95655556
+					],
+					[
+						135.76769444,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.77713889,
+						34.95655556
+					],
+					[
+						135.76991667,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.78075,
+						34.95655556
+					],
+					[
+						135.77713889,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.78269444,
+						34.95655556
+					],
+					[
+						135.78075,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.78936111,
+						34.95655556
+					],
+					[
+						135.78269444,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.79130556,
+						34.95655556
+					],
+					[
+						135.78936111,
+						34.95655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.83019444,
+						34.97933333
+					],
+					[
+						135.82463889,
+						34.971
+					],
+					[
+						135.82325,
+						34.96933333
+					],
+					[
+						135.82019444,
+						34.96794444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.83241667,
+						34.98322222
+					],
+					[
+						135.83019444,
+						34.97933333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.83630556,
+						34.98822222
+					],
+					[
+						135.83463889,
+						34.98655556
+					],
+					[
+						135.83241667,
+						34.98322222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.84019444,
+						34.98988889
+					],
+					[
+						135.83630556,
+						34.98822222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.84130556,
+						34.99044444
+					],
+					[
+						135.84019444,
+						34.98988889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85213889,
+						34.99461111
+					],
+					[
+						135.84825,
+						34.99238889
+					],
+					[
+						135.84130556,
+						34.99044444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85325,
+						34.99544444
+					],
+					[
+						135.85213889,
+						34.99461111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85325,
+						34.99544444
+					],
+					[
+						135.85213889,
+						34.99461111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85658333,
+						34.99738889
+					],
+					[
+						135.85325,
+						34.99544444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85658333,
+						34.99738889
+					],
+					[
+						135.85325,
+						34.99544444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85825,
+						34.99766667
+					],
+					[
+						135.85658333,
+						34.99738889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.85825,
+						34.99766667
+					],
+					[
+						135.85658333,
+						34.99738889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.86241667,
+						34.99877778
+					],
+					[
+						135.85825,
+						34.99766667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.86241667,
+						34.99877778
+					],
+					[
+						135.85825,
+						34.99766667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.86463889,
+						34.9985
+					],
+					[
+						135.86241667,
+						34.99877778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.86463889,
+						34.9985
+					],
+					[
+						135.86241667,
+						34.99877778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.86880556,
+						34.99683333
+					],
+					[
+						135.86547222,
+						34.9985
+					],
+					[
+						135.86463889,
+						34.9985
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.87047222,
+						34.996
+					],
+					[
+						135.86880556,
+						34.99683333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.87213889,
+						34.99516667
+					],
+					[
+						135.87047222,
+						34.996
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74713889,
+						34.95433333
+					],
+					[
+						135.74925,
+						34.95525
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.74925,
+						34.95525
+					],
+					[
+						135.75102778,
+						34.956
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.89297222,
+						34.97044444
+					],
+					[
+						135.89158333,
+						34.97072222
+					],
+					[
+						135.88908333,
+						34.97155556
+					],
+					[
+						135.88658333,
+						34.97266667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.90297222,
+						34.96961111
+					],
+					[
+						135.89297222,
+						34.97044444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.91963889,
+						34.96822222
+					],
+					[
+						135.91519444,
+						34.9685
+					],
+					[
+						135.91102778,
+						34.96877778
+					],
+					[
+						135.90880556,
+						34.96905556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.90630556,
+						34.96905556
+					],
+					[
+						135.90297222,
+						34.96961111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.90880556,
+						34.96905556
+					],
+					[
+						135.90630556,
+						34.96905556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.93741667,
+						34.97183333
+					],
+					[
+						135.93602778,
+						34.97155556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.94797222,
+						34.97738889
+					],
+					[
+						135.94075,
+						34.97266667
+					],
+					[
+						135.93825,
+						34.97183333
+					],
+					[
+						135.93741667,
+						34.97183333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.95297222,
+						34.98072222
+					],
+					[
+						135.94880556,
+						34.97794444
+					],
+					[
+						135.94797222,
+						34.97738889
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.97519444,
+						34.99794444
+					],
+					[
+						135.97186111,
+						34.99488889
+					],
+					[
+						135.96602778,
+						34.99016667
+					],
+					[
+						135.96130556,
+						34.98627778
+					],
+					[
+						135.95463889,
+						34.98183333
+					],
+					[
+						135.95297222,
+						34.98072222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.97908333,
+						35.00155556
+					],
+					[
+						135.97741667,
+						34.99988889
+					],
+					[
+						135.97519444,
+						34.99794444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.98047222,
+						35.00322222
+					],
+					[
+						135.97991667,
+						35.00238889
+					],
+					[
+						135.97908333,
+						35.00155556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.87519444,
+						34.99294444
+					],
+					[
+						135.87352778,
+						34.99433333
+					],
+					[
+						135.87213889,
+						34.99516667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.88658333,
+						34.97266667
+					],
+					[
+						135.88575,
+						34.97322222
+					],
+					[
+						135.88380556,
+						34.97516667
+					],
+					[
+						135.88269444,
+						34.97655556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.88269444,
+						34.97655556
+					],
+					[
+						135.88213889,
+						34.97794444
+					],
+					[
+						135.87852778,
+						34.9885
+					],
+					[
+						135.87630556,
+						34.99183333
+					],
+					[
+						135.87519444,
+						34.99294444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.91963889,
+						34.96822222
+					],
+					[
+						135.92102778,
+						34.96822222
+					],
+					[
+						135.92705556,
+						34.96958333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.92705556,
+						34.96958333
+					],
+					[
+						135.93602778,
+						34.97155556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "中央自動車道",
+				"N01_003": "西宮線",
+				"N01_004": "名神",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.11886111,
+						35.16513889
+					],
+					[
+						135.11941667,
+						35.16097222
+					],
+					[
+						135.12052778,
+						35.15652778
+					],
+					[
+						135.12219444,
+						35.15180556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.12219444,
+						35.15180556
+					],
+					[
+						135.12441667,
+						35.14819444
+					],
+					[
+						135.12691667,
+						35.14402778
+					],
+					[
+						135.13163889,
+						35.14125
+					],
+					[
+						135.13941667,
+						35.13986111
+					],
+					[
+						135.14802778,
+						35.13902778
+					],
+					[
+						135.15525,
+						35.13847222
+					],
+					[
+						135.16080556,
+						35.13347222
+					],
+					[
+						135.16413889,
+						35.12708333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.16775,
+						35.09180556
+					],
+					[
+						135.16747222,
+						35.08930556
+					],
+					[
+						135.16691667,
+						35.08625
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.16413889,
+						35.12708333
+					],
+					[
+						135.16580556,
+						35.12097222
+					],
+					[
+						135.16608333,
+						35.11486111
+					],
+					[
+						135.16663889,
+						35.10958333
+					],
+					[
+						135.16886111,
+						35.10513889
+					],
+					[
+						135.16969444,
+						35.10125
+					],
+					[
+						135.16886111,
+						35.09652778
+					],
+					[
+						135.16775,
+						35.09180556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.12219444,
+						35.17375
+					],
+					[
+						135.11997222,
+						35.17208333
+					],
+					[
+						135.11886111,
+						35.16986111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.14275,
+						35.18819444
+					],
+					[
+						135.13997222,
+						35.18513889
+					],
+					[
+						135.13858333,
+						35.18208333
+					],
+					[
+						135.13636111,
+						35.17875
+					],
+					[
+						135.13358333,
+						35.17597222
+					],
+					[
+						135.12969444,
+						35.17513889
+					],
+					[
+						135.12552778,
+						35.17402778
+					],
+					[
+						135.12219444,
+						35.17375
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.18247222,
+						35.25316667
+					],
+					[
+						135.18191667,
+						35.24955556
+					],
+					[
+						135.18108333,
+						35.24761111
+					],
+					[
+						135.18191667,
+						35.24455556
+					],
+					[
+						135.18247222,
+						35.24205556
+					],
+					[
+						135.18413889,
+						35.23844444
+					],
+					[
+						135.18552778,
+						35.23513889
+					],
+					[
+						135.18719444,
+						35.23208333
+					],
+					[
+						135.18691667,
+						35.22930556
+					],
+					[
+						135.18525,
+						35.22541667
+					],
+					[
+						135.18275,
+						35.22236111
+					],
+					[
+						135.17719444,
+						35.21958333
+					],
+					[
+						135.17247222,
+						35.21652778
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.17247222,
+						35.21652778
+					],
+					[
+						135.16580556,
+						35.21263889
+					],
+					[
+						135.16386111,
+						35.20875
+					],
+					[
+						135.16136111,
+						35.20458333
+					],
+					[
+						135.15858333,
+						35.20097222
+					],
+					[
+						135.15386111,
+						35.19680556
+					],
+					[
+						135.14969444,
+						35.19347222
+					],
+					[
+						135.14663889,
+						35.19180556
+					],
+					[
+						135.14413889,
+						35.19013889
+					],
+					[
+						135.14275,
+						35.18819444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.18386111,
+						35.26094444
+					],
+					[
+						135.18302778,
+						35.25844444
+					],
+					[
+						135.18247222,
+						35.25622222
+					],
+					[
+						135.18247222,
+						35.25316667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.17747222,
+						35.28483333
+					],
+					[
+						135.17913889,
+						35.2815
+					],
+					[
+						135.18052778,
+						35.27844444
+					],
+					[
+						135.18275,
+						35.27566667
+					],
+					[
+						135.18552778,
+						35.27205556
+					],
+					[
+						135.18691667,
+						35.26927778
+					],
+					[
+						135.18608333,
+						35.26677778
+					],
+					[
+						135.18497222,
+						35.264
+					],
+					[
+						135.18386111,
+						35.26094444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.19441667,
+						35.309
+					],
+					[
+						135.19163889,
+						35.30705556
+					],
+					[
+						135.19025,
+						35.30483333
+					],
+					[
+						135.18913889,
+						35.30177778
+					],
+					[
+						135.18775,
+						35.29872222
+					],
+					[
+						135.18636111,
+						35.29677778
+					],
+					[
+						135.18302778,
+						35.29538889
+					],
+					[
+						135.18052778,
+						35.29372222
+					],
+					[
+						135.17775,
+						35.29066667
+					],
+					[
+						135.17691667,
+						35.28788889
+					],
+					[
+						135.17747222,
+						35.28483333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.24719444,
+						35.31983333
+					],
+					[
+						135.24247222,
+						35.31955556
+					],
+					[
+						135.23830556,
+						35.32288889
+					],
+					[
+						135.23441667,
+						35.32566667
+					],
+					[
+						135.23108333,
+						35.32816667
+					],
+					[
+						135.22719444,
+						35.32872222
+					],
+					[
+						135.22497222,
+						35.32733333
+					],
+					[
+						135.22163889,
+						35.32511111
+					],
+					[
+						135.21775,
+						35.32372222
+					],
+					[
+						135.21275,
+						35.32372222
+					],
+					[
+						135.20802778,
+						35.32427778
+					],
+					[
+						135.20358333,
+						35.32344444
+					],
+					[
+						135.19997222,
+						35.32177778
+					],
+					[
+						135.19691667,
+						35.31955556
+					],
+					[
+						135.19663889,
+						35.31677778
+					],
+					[
+						135.19719444,
+						35.31344444
+					],
+					[
+						135.19636111,
+						35.31094444
+					],
+					[
+						135.19441667,
+						35.309
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.25719444,
+						35.32705556
+					],
+					[
+						135.25413889,
+						35.32622222
+					],
+					[
+						135.25136111,
+						35.324
+					],
+					[
+						135.24913889,
+						35.32261111
+					],
+					[
+						135.24719444,
+						35.31983333
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.27052778,
+						35.33622222
+					],
+					[
+						135.26913889,
+						35.33177778
+					],
+					[
+						135.26691667,
+						35.32955556
+					],
+					[
+						135.26469444,
+						35.32816667
+					],
+					[
+						135.26136111,
+						35.32733333
+					],
+					[
+						135.25719444,
+						35.32705556
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.30938889,
+						35.36261111
+					],
+					[
+						135.30661111,
+						35.359
+					],
+					[
+						135.30441667,
+						35.35622222
+					],
+					[
+						135.30247222,
+						35.35427778
+					],
+					[
+						135.29913889,
+						35.35261111
+					],
+					[
+						135.29163889,
+						35.35038889
+					],
+					[
+						135.28386111,
+						35.34788889
+					],
+					[
+						135.27775,
+						35.34511111
+					],
+					[
+						135.27302778,
+						35.34094444
+					],
+					[
+						135.27052778,
+						35.33622222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.32688889,
+						35.38622222
+					],
+					[
+						135.32744444,
+						35.38094444
+					],
+					[
+						135.328,
+						35.37677778
+					],
+					[
+						135.32744444,
+						35.37316667
+					],
+					[
+						135.32688889,
+						35.37038889
+					],
+					[
+						135.32494444,
+						35.36844444
+					],
+					[
+						135.32022222,
+						35.36733333
+					],
+					[
+						135.31494444,
+						35.36594444
+					],
+					[
+						135.31161111,
+						35.364
+					],
+					[
+						135.30938889,
+						35.36261111
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.33855556,
+						35.40433333
+					],
+					[
+						135.33938889,
+						35.40622222
+					],
+					[
+						135.34022222,
+						35.40844444
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.33855556,
+						35.40433333
+					],
+					[
+						135.33827778,
+						35.40372222
+					],
+					[
+						135.33522222,
+						35.40122222
+					],
+					[
+						135.33105556,
+						35.39927778
+					],
+					[
+						135.32911111,
+						35.39677778
+					],
+					[
+						135.32772222,
+						35.39316667
+					],
+					[
+						135.32716667,
+						35.38983333
+					],
+					[
+						135.32688889,
+						35.38622222
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "近畿自動車道",
+				"N01_003": "敦賀",
+				"N01_004": "舞鶴",
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						135.63605556,
+						34.67963889
+					],
+					[
+						135.63022222,
+						34.67991667
+					],
+					[
+						135.62411111,
+						34.67991667
+					]
+				]
+			},
+			"properties": {
+				"N01_001": "1",
+				"N01_002": "阪神高速",
+				"N01_003": "１３号東大阪線",
+				"N01_004": null,
+				"description": "1",
+				"stroke": "#ffffcc",
+				"stroke-width": "1"
+			}
+		}
+	]
+}
