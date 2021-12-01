@@ -48,7 +48,8 @@ export const classifyFeatures = (features: Feature[]) => {
 		"3": [],
 		"4": [],
 		"5": [],
-		"6": []
+		"6": [],
+		"7": []
 	}
 	features.forEach(feature => {
 		feature.properties["description"] = feature.properties["N01_001"];
@@ -70,6 +71,9 @@ export const classifyFeatures = (features: Feature[]) => {
 			}
 			case "6": {
 				roads["6"].push(feature);
+			}
+			case "7": {
+				roads["7"].push(feature);
 			}
 		}
 	});
