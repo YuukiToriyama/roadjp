@@ -56,24 +56,31 @@ export const classifyFeatures = (features: Feature[]) => {
 		switch (feature.properties["N01_001"]) {
 			case "1": {
 				roads["1"].push(feature);
+				break;
 			}
 			case "2": {
 				roads["2"].push(feature);
+				break;
 			}
 			case "3": {
 				roads["3"].push(feature);
+				break;
 			}
 			case "4": {
 				roads["4"].push(feature);
+				break;
 			}
 			case "5": {
 				roads["5"].push(feature);
+				break;
 			}
 			case "6": {
 				roads["6"].push(feature);
+				break;
 			}
 			case "7": {
 				roads["7"].push(feature);
+				break;
 			}
 		}
 	});
