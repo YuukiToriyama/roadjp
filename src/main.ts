@@ -54,33 +54,21 @@ export const classifyFeatures = (features: Feature[]) => {
 		feature.properties["description"] = feature.properties["N01_001"];
 		switch (feature.properties["N01_001"]) {
 			case "1": {
-				feature.properties["stroke"] = "#ff7f7f";
-				feature.properties["stroke-width"] = "3";
 				roads["1"].push(feature);
 			}
 			case "2": {
-				feature.properties["stroke"] = "#ffbf7f";
-				feature.properties["stroke-width"] = "2";
 				roads["2"].push(feature);
 			}
 			case "3": {
-				feature.properties["stroke"] = "#ffff7f";
-				feature.properties["stroke-width"] = "2";
 				roads["3"].push(feature);
 			}
 			case "4": {
-				feature.properties["stroke"] = "#ffffa3";
-				feature.properties["stroke-width"] = "2";
 				roads["4"].push(feature);
 			}
 			case "5": {
-				feature.properties["stroke"] = "#ffffb7";
-				feature.properties["stroke-width"] = "1";
 				roads["5"].push(feature);
 			}
 			case "6": {
-				feature.properties["stroke"] = "#ffffcc";
-				feature.properties["stroke-width"] = "1";
 				roads["6"].push(feature);
 			}
 		}
