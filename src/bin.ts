@@ -1,6 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { loadMlitData, classifyFeatures, GeoJson } from './main';
+import ProgressBar from 'progress';
 
 const mkdir = async (path: string) => {
 	await fs.mkdir(path).catch(() => {
@@ -9,6 +10,8 @@ const mkdir = async (path: string) => {
 }
 
 (async () => {
+	// プログレスバーを準備
+	const progressBar = new ProgressBar("processing...[:bar] (:current/:total)", { total: 47 });
 	// データを出力するディレクトリを作成
 	const outDir = "data";
 	await mkdir(outDir);
@@ -28,6 +31,6 @@ const mkdir = async (path: string) => {
 			}
 			fs.writeFile(path.join(outDir, prefNumber, `${key}.geojson`), JSON.stringify(geojson, null, "\t"));
 		});
+		progressBar.tick();
 	}
-
 })();

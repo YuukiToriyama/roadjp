@@ -1,6 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^16.11.10",
+    "@types/progress": "^2.0.5",
+    "progress": "^2.0.3",
     "typescript": "^4.5.2"
   },
   "name": "roadjp",

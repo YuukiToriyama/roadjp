@@ -20,7 +20,9 @@ jobs:
       - name: Compile codes
         run: npm run build
       - name: Build JSON files
-        run: node dist/main.js
+        run: node dist/bin.js
+      - name: Copy Readme
+        run: cp README.md ./data
       - name: Deploy products to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
