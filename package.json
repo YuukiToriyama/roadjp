@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/YUUKIToriyama/roadjp#readme",
   "dependencies": {
-    "@loaders.gl/core": "^3.0.13",
-    "@loaders.gl/polyfills": "^3.0.13",
-    "@loaders.gl/shapefile": "^3.0.13",
-    "@loaders.gl/zip": "^3.0.13"
+    "@loaders.gl/core": "3.3.3",
+    "@loaders.gl/polyfills": "3.3.3",
+    "@loaders.gl/shapefile": "3.3.3",
+    "@loaders.gl/zip": "3.3.3"
   }
 }
