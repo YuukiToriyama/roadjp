@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "@types/node": "^16.11.10",
-    "@types/progress": "^2.0.5",
+    "@types/node": "^20.11.18",
+    "@types/progress": "^2.0.7",
     "progress": "^2.0.3",
-    "typescript": "^4.5.2"
+    "typescript": "^5.3.3"
   },
   "name": "roadjp",
   "description": "",
@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/YUUKIToriyama/roadjp#readme",
   "dependencies": {
-    "@loaders.gl/core": "3.3.3",
-    "@loaders.gl/polyfills": "3.3.3",
-    "@loaders.gl/shapefile": "3.3.3",
-    "@loaders.gl/zip": "3.3.3"
+    "@loaders.gl/core": "4.1.1",
+    "@loaders.gl/polyfills": "4.1.1",
+    "@loaders.gl/shapefile": "4.1.1",
+    "@loaders.gl/zip": "4.1.1"
   }
 }
