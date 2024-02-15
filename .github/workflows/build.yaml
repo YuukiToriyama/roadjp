@@ -1,4 +1,4 @@
-name: Build Geojson files
+name: Build and deploy geojson files
 on:
   push:
     branches:
